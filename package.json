@@ -1,0 +1,15 @@
+{
+  "name": "wafer",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Wafer - a toy programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kyle Racette (kracette@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "ohm-js": "^17.1.0"
+  }
+}
